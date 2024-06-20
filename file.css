@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Handwritten';
-    src: url('your_handwritten_font_file.ttf');
-  }
-  
-  body {
-    font-family: 'Handwritten', cursive;
-  }
-  
